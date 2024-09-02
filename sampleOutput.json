@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Mark Bryant counts US shootings. He no longer remembers the names",
+      "description": "After years of counting the dead, Mark Bryant says he's grown numb to the toll of US gun violence.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65305145",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/040F/production/_129393010_head4b.jpg",
+      "publishedAt": "2023-04-27T00:52:18.1367258Z",
+      "content": "Mark Bryant counts shootings for a living.\r\nIt's an around-the-clock job in the US - where more than two people died from guns every hour last year.\r\nHe's been doing it for nearly a decade, serving a… [+6417 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Sudan crisis: Fighting flares up despite ceasefire",
+      "description": "Explosions and gunfire are reported near the capital even as attempts are made to extend the truce.",
+      "url": "http://www.bbc.co.uk/news/world-africa-65404317",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD7B/production/_129511444_7bde10de0fc63fea1502e1a2f8e2853368e69632.png",
+      "publishedAt": "2023-04-26T23:37:17.697544Z",
+      "content": "Fighting is continuing in parts of Sudan despite a 72-hour ceasefire largely holding.\r\nSpeaking via phone from Omdurman, the city adjoining the capital Khartoum, the BBC's Mohamed Osman says fighting… [+4204 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Elizabeth Holmes delays start of prison sentence",
+      "description": "The disgraced Theranos founder's more than 11-year sentence is put on hold pending appeal.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65406910",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/014B/production/_129513300_elizabeth-holmes-court.jpg",
+      "publishedAt": "2023-04-26T22:07:20.5097374Z",
+      "content": "Disgraced Theranos founder Elizabeth Holmes has delayed the start of her more than 11-year prison sentence after lodging another appeal.\r\nHolmes, 39, was convicted last year on four counts of fraud l… [+2094 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Disney v DeSantis: Why the happiest place on Earth is suing Florida's governor",
+      "description": "Disney's latest salvo against Ron DeSantis escalates the legal battle over its Florida theme parks.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65407134",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28B5/production/_129512401_gettyimages-1241135974.jpg",
+      "publishedAt": "2023-04-26T21:37:17.7757196Z",
+      "content": "Like an old-fashioned bar room brawl, the back-and-forth public relations, political and legal battle between Ron DeSantis and Walt Disney World began with a few sharp words.\r\nNow it has spilled out … [+3814 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Montana House Republicans discipline Rep Zooey Zephyr",
+      "description": "Rep Zephyr has been barred from the House chamber after opposing a bill banning gender-affirming care.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65382073",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11F3B/production/_129513537_1aa5f6ab325b859b411205ec9249d485aa4dcdec812_339_2162_12161000x563.jpg",
+      "publishedAt": "2023-04-26T21:22:21.402188Z",
+      "content": "Montana Republican lawmakers have voted to bar Democrat Rep Zooey Zephyr, who is transgender, from the House chamber.\r\nRep Zephyr sparked conservative ire when she spoke in opposition to a bill restr… [+3482 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Jacinda Ardern to join Harvard University as dual fellow",
+      "description": "The school praises the ex-prime minister of New Zealand for her \"strong and empathetic\" leadership.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65406558",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB9F/production/_129513084_gettyimages-1458946263.jpg",
+      "publishedAt": "2023-04-26T21:22:18.9945048Z",
+      "content": "Former New Zealand prime minister Jacinda Ardern has announced she will join Harvard University as a fellow later this year.\r\nThe prestigious Ivy League university in Cambridge, Massachusetts, said i… [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Fugees' Pras Michel found guilty of illegal lobbying",
+      "description": "The rapper is found guilty of taking money from a fugitive billionaire to influence US politics.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65353225",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C14/production/_129442727_735a274d7ba186ccd299216fcf140870380ef6d70_0_3680_24541000x667.jpg",
+      "publishedAt": "2023-04-26T21:22:16.7606866Z",
+      "content": "Ex-Fugees musician Prakazrel \"Pras\" Michel has been found guilty of 10 counts including conspiracy, after accepting money from a fugitive tycoon.\r\nProsecutors said Mr Michel, 50, received more than $… [+1991 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Donald Trump rape accuser E Jean Carroll takes the stand",
+      "description": "In emotional testimony, she says she is trying to \"get her life back\" after the alleged 1996 rape.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65406394",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F119/production/_129512716_ejeancarroll.jpg",
+      "publishedAt": "2023-04-26T20:22:19.3861517Z",
+      "content": "A former columnist suing Donald Trump over an alleged rape nearly 30 years ago has testified she launched the case \"to try and get my life back\".\r\nE Jean Carroll told the New York civil rape and defa… [+2505 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Disney sues Florida governor Ron DeSantis",
+      "description": "In a lawsuit filed on Wednesday, Disney alleges it has been the target of \"government retaliation\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65405312",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-04-26T16:22:19.8070472Z",
+      "content": "Disney has filed a lawsuit against Florida Governor Ron DeSantis, sharply escalating the battle between the entertainment giant and the top Republican politician. \r\nIn the filing, the company's theme… [+270 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Manhunt underway after deadly Mississippi jail break",
+      "description": "One of four men who escaped from a Mississippi jail is suspected of having killed a man while fleeing.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65401807",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121D9/production/_129510247_hindscounty.jpg",
+      "publishedAt": "2023-04-26T15:22:19.5578895Z",
+      "content": "Police are hunting for four inmates who escaped a Mississippi jail, including one now believed to have killed a man while on the run. \r\nThe suspects were found missing during a routine headcount at t… [+2301 chars]"
+    }
+  ]
+}
